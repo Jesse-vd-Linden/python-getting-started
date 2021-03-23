@@ -3,7 +3,10 @@ from django.http import HttpResponse
 
 from .models import Greeting
 import requests
+<<<<<<< HEAD
 import os
+=======
+>>>>>>> aee451704a9c7df749d0aa638f764f64c3aabe67
 
 # Create your views here.
 def index(request):
